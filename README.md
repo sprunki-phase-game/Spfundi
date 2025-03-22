@@ -6,9 +6,9 @@
 
 In the ever-evolving world of musical gaming, Spfundi has emerged as a delightful and innovative mod that transforms the original Sprunki experience into something truly special. This family-friendly musical adventure combines creative sound mixing with adorable visuals, offering players a unique platform to express their musical creativity while maintaining a cheerful and wholesome atmosphere that sets it apart from other mods.
 
-- Sprunki official site: [Sprunki](https://Sprunki.com)
-- Sprunki site 2: [Spfundi](https://sprunki-incredibox.org/game/sprunki-spfundi)
-- Sprunki site 3: [Spfundi](https://sprunki.la/game/sprunki-spfundi)
+- Spfundi official site: [Spfundi](https://Spfundi.com)
+- Spfundi site 2: [Spfundi](https://sprunki-incredibox.org/game/sprunki-spfundi)
+- Spfundi site 3: [Spfundi](https://sprunki.la/game/sprunki-spfundi)
 
 ## The Evolution of Musical Gaming Through Spfundi's Unique Approach
 
